@@ -1,7 +1,9 @@
 ### Hi there 👋
-- 🖥️ I'm an IT/Sys Admin, IT Manager, and Jack of All (IT) Trades
-- 🏢 Working at Network to Code, The network automation solution provider
+- 🏢 I'm the Director of IT and InfoSec at Network to Code, The network automation solution provider
+- 🖥️ I'm an IT/Sys Admin and Jack of All (IT) Trades
 - 💬 Ask me about network automation, nautobot, and network SSOT
+- 🔭 I’m currently working on automating Network to Code's internal sccount structure and building data pipelines between systems
+- 🦅 I'm an Eagle Scout and volunteer with Cub Scouts
 <!--
 **LoneStar-Swish/LoneStar-Swish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
